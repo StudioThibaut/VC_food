@@ -8,7 +8,7 @@ import GoogleAnalyticsTracker from "@/components/GoogleAnalyticsTracker"
 import "./globals.css"
 
 export const metadata = {
-  title: "Thibaut Vanden Eynden | Portfolio",
+  title: "Thibaut Vanden Eynden | Foodtracker",
   description: "Grafisch Ontwerp & Digitale Media - Class of '26",
 }
 
